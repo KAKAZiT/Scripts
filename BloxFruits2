@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farn2000/ShuShiScriptHubRenew/main/ShuShiScriptHub"))()
